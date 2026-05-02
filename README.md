@@ -98,7 +98,8 @@ DeviceNetworkEvents
 | order by Timestamp desc
 ```
 
-<img width="1567" height="375" alt="Screenshot 2026-05-01 at 6 24 19 PM" src="https://github.com/user-attachments/assets/9681f317-da2b-4065-a7e9-e75b3be94399" />
+<img width="988" height="249" alt="Screenshot 2026-05-01 at 7 07 45 PM" src="https://github.com/user-attachments/assets/971477e0-cee9-4c51-b128-e7b65d62592c" />
+
 
 
 
