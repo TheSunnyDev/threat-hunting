@@ -4,7 +4,8 @@
 
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation](https://github.com/TheSunnyDev/adversary-emulation-telemetry/blob/main/emulate-tor-traffic-telemetry.md)
-- [Tor Threat Hunt Timeline Report](https://github.com/user-attachments/files/27294750/Tor.Threat.Hunt.Timeline.Report.pdf) 
+- [Tor Threat Hunt Timeline Report](https://github.com/TheSunnyDev/adversary-emulation-telemetry/blob/main/Tor%20Threat%20Hunt%20Timeline%20Report.pdf)
+- [Tor Threat Hunt Timeline Report (PDF)](https://github.com/user-attachments/files/27294750/Tor.Threat.Hunt.Timeline.Report.pdf) 
 
 ## Platforms and Languages Leveraged
 - Windows 11 Virtual Machines (Microsoft Azure)
